@@ -48,6 +48,12 @@ html {
   padding-bottom: 40px;
 }
 
+.ingredients-image {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
 .directions {
   margin-top: 45px;
   margin-bottom: 100px;
